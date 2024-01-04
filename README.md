@@ -28,11 +28,11 @@
 | ------ | ------ |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 
-
+ <a href="https://wakatime.com/@alexNgumbau"><img src="https://wakatime.com/badge/user/3eb50302-b9fc-459a-84c1-0f28db91f8a5.svg" alt="Total time coded since Sep 14 2023" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexngumbau&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| <a href="https://wakatime.com/@alexNgumbau"><img src="https://wakatime.com/badge/user/3eb50302-b9fc-459a-84c1-0f28db91f8a5.svg" alt="Total time coded since Sep 14 2023" /></a>|
+
 
 
