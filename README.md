@@ -5,7 +5,7 @@
 
 # 💫 About Me
 - 🔭 Open to work and exciting new opportunities  
-- 👯 Looking to collaborate on **open-source projects**  
+- 👯 Looking to collaborate on **open-source projects*
 - 📫 Reach me at **alexngumbau48@gmail.com**  
 - 💡 Passionate about **Backend Development, APIs, Cloud, and System Design**  
 
@@ -21,11 +21,11 @@
 # 📊 GitHub Stats
 | Stats | Streak |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexngumbau&theme=dark&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexngumbau&theme=dark&hide_border=false&timezone=Africa/Nairobi&v=2) |
 
 | Languages | ✍️ Random Dev Quote |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&v=2) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 
 ---
 
