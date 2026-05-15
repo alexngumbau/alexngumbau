@@ -1,48 +1,162 @@
-<h1 align="center">Hi there 👋, I'm Alex Ngumbau</h1>
-<h3 align="center">Software Engineer | Backend Developer | Open Source Enthusiast</h3>
+````md id="glassmorphism-readme"
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1e293b,50:334155,100:0f172a&text=Alex%20Ngumbau&fontColor=E2E8F0&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open%20Source&descAlignY=58&descSize=18"/>
 
-# 💫 About Me
-- 🔭 Open to work and exciting new opportunities  
-- 👯 Looking to collaborate on **open-source projects*
-- 📫 Reach me at **alexngumbau48@gmail.com**  
-- 💡 Passionate about **Backend Development, APIs, Cloud, and System Design**  
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&pause=1000&color=E2E8F0&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Cloud+%2B+Distributed+Systems+Engineer;Java+%7C+Spring+Boot+%7C+Kafka;Crafting+Elegant+Software+Experiences"/>
 
-# 💻 Tech Stack
-| Languages | Databases | Tools & Frameworks |
-| --- | --- | --- |
-| ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://img.shields.io/badge/postgresql-%2331617D.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/mongodb-%2347BCF9.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/sqlite-%2300C4CC.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kafka-%23023131.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) ![](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
+<br/><br/>
 
----
+<p>
+  <a href="mailto:alexngumbau48@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffffff10?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000030"/>
+  </a>
 
-# 📊 GitHub Stats
-| Stats | Streak |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexngumbau&theme=dark&hide_border=false&timezone=Africa/Nairobi&v=2) |
+  <a href="https://linkedin.com/in/alex-ngumbau-63181a19b/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff10?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000030"/>
+  </a>
 
-| Languages | ✍️ Random Dev Quote |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&v=2) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
-
----
-
-# ⏱️ Coding Activity
-<a href="https://wakatime.com/@alexNgumbau">
-  <img src="https://wakatime.com/badge/user/3eb50302-b9fc-459a-84c1-0f28db91f8a5.svg" alt="Total time coded since Sep 14 2023" />
-</a>
-
----
-
-# 🌐 Connect With Me
-<p align="left">
-<a href="mailto:alexngumbau48@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/alex-ngumbau-63181a19b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/alexngumbau"><img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/alexngumbau">
+    <img src="https://img.shields.io/badge/GitHub-ffffff10?style=for-the-badge&logo=github&logoColor=white&labelColor=00000030"/>
+  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=alexngumbau&label=Profile%20Views&color=94A3B8&style=flat-square"/>
+
+</div>
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=alexngumbau&icon=0&color=0)](https://visitcount.itsvg.in)
+# ✨ About Me
+
+<div align="center">
+
+```typescript
+const alex = {
+  role: "Software Engineer",
+  focus: [
+    "Backend Development",
+    "Microservices",
+    "Cloud Native Systems",
+    "Distributed Architectures"
+  ],
+
+  technologies: {
+    backend: ["Java", "Spring Boot", "Kafka"],
+    frontend: ["React", "Angular"],
+    databases: ["PostgreSQL", "MongoDB"],
+    devops: ["Docker", "Terraform"]
+  },
+
+  openToWork: true
+};
+````
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 💼 Currently           | 🚀 Passionate About | 🤝 Open To                |
+| ---------------------- | ------------------- | ------------------------- |
+| Building scalable APIs | Distributed Systems | Open Source Collaboration |
+
+</div>
+
+---
+
+# 🧊 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,spring,docker,kafka,postgres,mongodb,terraform,react,angular,git,linux&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexngumbau&show_icons=true&theme=transparent&hide_border=true&title_color=E2E8F0&text_color=CBD5E1&icon_color=94A3B8"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexngumbau&theme=transparent&hide_border=true&ring=CBD5E1&fire=CBD5E1&currStreakLabel=E2E8F0"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexngumbau&layout=compact&theme=transparent&hide_border=true&title_color=E2E8F0&text_color=CBD5E1"/>
+
+</div>
+
+---
+
+# ⏳ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexngumbau&bg_color=0f172a00&color=CBD5E1&line=94A3B8&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alexngumbau&theme=onestar&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:alexngumbau48@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ffffff10?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000030"/>
+</a>
+
+<a href="https://linkedin.com/in/alex-ngumbau-63181a19b/">
+  <img src="https://img.shields.io/badge/LinkedIn-ffffff10?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000030"/>
+</a>
+
+<a href="https://github.com/alexngumbau">
+  <img src="https://img.shields.io/badge/GitHub-ffffff10?style=for-the-badge&logo=github&logoColor=white&labelColor=00000030"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:334155&height=2"/>
+
+### ✨ *"Elegant systems are built one abstraction at a time."*
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:334155,100:1e293b"/>
+
+```
+```
