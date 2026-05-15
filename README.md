@@ -1,6 +1,3 @@
-````md id="glassmorphism-readme"
-````
-
 </div>
 
 <br/>
